@@ -6,7 +6,7 @@ It's uses pthread for responsing mulitple request concurrently.
 
 ## Compile
 
-Just run the following and you will get the server.exe file. Run it and you will have a simple web server running on HTTP/1.0.
+Just run the following and you will get the server.exe file. Run it and you will have a simple web server running on HTTP/1.0 in port 4000
 
 ```bash
 

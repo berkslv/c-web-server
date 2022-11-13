@@ -15,7 +15,7 @@
 
 
 // global constants
-#define PORT 2001  // port to connect on
+#define PORT 4000  // port to connect on
 #define LISTENQ 10 // number of connections
 
 int list_s; // listening socket
